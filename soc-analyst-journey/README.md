@@ -5,8 +5,7 @@ A hands-on record of learning defensive security analysis: reading logs and netw
 Every case in this repo was worked on data I am authorised to examine: my own lab, training platforms, or published sample files.
 
 - **Analyst:** Joseph <!-- add LinkedIn / contact link -->
-- **Started:** 29 October 2026
-- **Learning setup:** guided sessions with an AI mentor. I run every command, read every output and write every report myself.
+
 
 ## What this repo demonstrates
 
