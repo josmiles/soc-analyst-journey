@@ -1,0 +1,25 @@
+# Packet captures: kept out of the repo (size, privacy, and some contain live malware traffic)
+*.pcap
+*.pcapng
+*.cap
+
+# Malware-exercise archives and anything extracted from them
+*.zip
+*.7z
+extracted/
+
+# Raw, unsanitised logs from my own systems: commit only the sanitised copy
+raw/
+*.raw.log
+
+# Secrets
+.env
+*.key
+*.pem
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
